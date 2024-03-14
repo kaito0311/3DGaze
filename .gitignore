@@ -1,0 +1,15 @@
+data/
+data.zip
+log/
+output/
+inference_results/
+notebooks/.ipynb_checkpoints
+
+# demo
+demo/data/
+demo/log/
+demo/deliver/
+demo/test_dir
+
+*__pycache__
+*.ipynb_checkpoints
